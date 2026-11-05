@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5705eef-3dd8-4dd8-b145-83b297dfa1ff" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InterfaceSample.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/use/Call.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/used/AddCalc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/used/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/used/SubCalc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LombokSample/src/main/java/com/example/demo/UserMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LombokSample/src/main/java/com/example/demo/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
