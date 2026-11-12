@@ -1,4 +1,4 @@
-qqqqqqqqqqqqqqqqqpackage com.example.demo.used;
+package com.example.demo.used;
 
 import org.springframework.stereotype.Component;
 /**
